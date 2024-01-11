@@ -1,1 +1,2 @@
-Felica Support Added Vendor
+# renoir_jp LOS20 Vendor Blob
+## Felica Support Added
